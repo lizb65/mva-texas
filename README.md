@@ -37,7 +37,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Injured in a Car Accident in Texas?</h1>
+    <h1>Injured in a Car Accident in Texas? You May Be Eligible for Compensation</h1>
     <p>Complete the secure form below to check your eligibility. No upfront fees. No obligation.</p>
 
     <iframe src="https://www.cognitoforms.com/f/OLF6IDWks0ifMYWPe-BLkw/15" allow="payment" style="border:0;width:100%;" height="1067"></iframe>

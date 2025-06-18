@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Free Legal Case Evaluation - Texas</title>
+  <title>Free Legal Evaluation - Texas Accident Claims</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -22,6 +22,11 @@
     h1, p {
       text-align: center;
     }
+    h1.page-title {
+      color: #1a73e8;
+      font-size: 1.8em;
+      margin-bottom: 0.5em;
+    }
     iframe {
       width: 100%;
       height: 1067px;
@@ -37,7 +42,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Injured in a Car Accident in Texas? You May Be Eligible for Compensation</h1>
+    <h1 class="page-title">Free Legal Evaluation for Texas Auto Accident Victims</h1>
     <p>Complete the secure form below to check your eligibility. No upfront fees. No obligation.</p>
 
     <iframe src="https://www.cognitoforms.com/f/OLF6IDWks0ifMYWPe-BLkw/15" allow="payment" style="border:0;width:100%;" height="1067"></iframe>
